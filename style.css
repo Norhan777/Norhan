@@ -1,0 +1,17 @@
+/* start carousel section*/
+.edit{
+   top: 50%;
+}
+/* end carousel section*/
+
+/*start cards section*/
+.play{
+ display: inline-block;
+ margin-left: 50px;
+ margin-right: 70px;
+ margin-top: 30px;
+ margin-bottom: 30px;
+ text-align: center;
+
+}
+/*end cards section*/
